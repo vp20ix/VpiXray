@@ -5,9 +5,12 @@
 Web vulnerability scanner + recon suite written in Python.
 Built for penetration testers, bug bounty hunters, and security learners.
 
-![Version](https://img.shields.io/badge/version-0.1.0-magenta)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![PyPI version](https://img.shields.io/pypi/v/vpixray?color=magenta)](https://pypi.org/project/vpixray/)
+[![Python versions](https://img.shields.io/pypi/pyversions/vpixray)](https://pypi.org/project/vpixray/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/vpixray?color=blue)](https://pypi.org/project/vpixray/)
+[![GitHub Stars](https://img.shields.io/github/stars/vp20ix/VpiXray?style=social)](https://github.com/vp20ix/VpiXray/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vp20ix/VpiXray?style=social)](https://github.com/vp20ix/VpiXray/network/members)
 
 ---
 
