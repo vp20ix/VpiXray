@@ -213,6 +213,21 @@ Result: Shows IP, DNS, SSL, server info, ports.
 
 ---
 
+
+## Screenshots
+
+### Main Interface
+
+![VpiXray Banner](screenshots/banner.png)
+
+### Vulnerability Scan — SQL Injection Detection
+
+![Vulnerability Scan](screenshots/vuln-scan.png)
+
+### Recon Suite
+
+![Recon Output](screenshots/recon.png)
+
 ## Architecture
 
     VpiXray/
