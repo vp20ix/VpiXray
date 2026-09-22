@@ -33,6 +33,27 @@ Built for penetration testers, bug bounty hunters, and security learners.
 
 ---
 
+## Installation
+
+### Option 1: pip (Recommended)
+
+    pip install vpixray
+
+### Option 2: Docker
+
+    docker build -t vpixray .
+    docker run --rm -t vpixray -u https://target.com --all
+
+### Option 3: From Source
+
+    git clone https://github.com/vp20ix/VpiXray.git
+    cd VpiXray
+    python3 -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+
+---
+
 ## Features
 
 ### Vulnerability Scanner (21 checks)
